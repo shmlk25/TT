@@ -1,0 +1,4 @@
+"AadClientId": "db6a2d21-aad6-484b-b906-bfe9ddbc21c1",
+"AadSecret": "tN48Q~hFvXc68H3FffU25aZOM1TvWRkBipMBqbic",
+"AadTenantDomain": "ifs.onmicrosoft.com",
+"AadTenantId": "afadec18-0533-4cba-8578-5316252ff93f",
